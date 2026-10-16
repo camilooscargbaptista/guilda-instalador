@@ -47,6 +47,7 @@ Nunca use `curl … | bash`: baixe, confira o hash e só então rode.
 
 | versão | pacote |
 |---|---|
+| 2.6.0 | `guilda-2.6.0.tar.gz` |
 | 2.5.2 | `guilda-2.5.2.tar.gz` |
 | 2.5.1 | `guilda-2.5.1.tar.gz` |
 | 2.5.0 | `guilda-2.5.0.tar.gz` |
