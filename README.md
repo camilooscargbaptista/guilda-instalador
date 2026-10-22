@@ -3,6 +3,8 @@
 Instala o kit da **Guilda** (Arkolabs) numa **versão fixa**, conferindo o **SHA-256** do pacote antes de abrir.
 Este repositório tem só o instalador — nenhum código do kit.
 
+**Licença do kit:** Copyright (c) 2026 Arkolabs. Todos os direitos reservados. Uso permitido conforme os termos de assinatura da Guilda. O texto está no `LICENSE` do pacote.
+
 ## Antes: o acesso ao kit
 
 **O pacote do kit exige acesso ao repositório `camilooscargbaptista/guilda`** (privado). O instalador baixa o pacote de
@@ -47,6 +49,7 @@ Nunca use `curl … | bash`: baixe, confira o hash e só então rode.
 
 | versão | pacote |
 |---|---|
+| 2.6.4 | `guilda-2.6.4.tar.gz` |
 | 2.6.3 | `guilda-2.6.3.tar.gz` |
 | 2.6.2 | `guilda-2.6.2.tar.gz` |
 | 2.6.1 | `guilda-2.6.1.tar.gz` |
