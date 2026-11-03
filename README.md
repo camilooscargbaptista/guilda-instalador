@@ -49,6 +49,7 @@ Nunca use `curl … | bash`: baixe, confira o hash e só então rode.
 
 | versão | pacote |
 |---|---|
+| 2.9.6 | `guilda-2.9.6.tar.gz` |
 | 2.9.5 | `guilda-2.9.5.tar.gz` |
 | 2.9.4 | `guilda-2.9.4.tar.gz` |
 | 2.9.3 | `guilda-2.9.3.tar.gz` |
